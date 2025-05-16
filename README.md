@@ -20,7 +20,7 @@ Access the page here: https://stevenarmenta1.github.io/videos_classlink/
 
 ## 🚀 How to Use
 
-1. Visit the [[Live Site](https://stevenarmenta1.github.io/videos_classlink/)](https://stevenarmenta1.github.io/videos_classlink/)
+1. Visit the [[Live Site](https://stevenarmenta1.github.io/videos_classlink/)]
 2. Watch the videos relevant to your password reset situation
 3. Follow the instructions to recover or reset your credentials via Classlink
 
